@@ -88,11 +88,11 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Hotel Website - Client Project",
-      des: "Developed a modern hotel website with a visually appealing layout, intuitive navigation, and engaging guest experience.",
-      img: "/hotel-website.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/gsap.svg"],
-      link: "https://hotel-website-brown.vercel.app/",
+      title: "Movvvies - Movie App API project",
+      des: "Utilized the TMDb API to create a movie app that allows users to search for movies.",
+      img: "/movvvies-screenshot.png",
+      iconLists: ["/re.svg", "/tail.svg"],
+      link: "https://github.com/LazarosZiskos/movvvies",
     },
     {
       id: 4,
@@ -102,6 +102,16 @@ export const navItems = [
       iconLists: ["/re.svg", "/tail.svg", "/gsap.svg"],
       link: "https://vet-practice.vercel.app/",
     },
+    {
+      id: 5,
+      title: "Hotel Website - Client Project",
+      des: "Developed a modern hotel website with a visually appealing layout, intuitive navigation, and engaging guest experience.",
+      img: "/hotel-website.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/gsap.svg"],
+      link: "https://hotel-website-brown.vercel.app/",
+    },
+    
+    
   ];
   
   export const testimonials = [
@@ -181,7 +191,7 @@ export const navItems = [
     {
       id: 2,
       title: "Hotel Manager",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      desc: "Managed daily operations, optimized workflows, and improved guest experiences through data-driven decision-making.",
       className: "md:col-span-2",
       thumbnail: "/exp2.svg",
     },
