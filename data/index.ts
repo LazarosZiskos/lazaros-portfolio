@@ -80,6 +80,14 @@ export const navItems = [
     },
     {
       id: 2,
+      title: "Debugging Life - Blog Application",
+      des: "Blog built with NextJS and Sanity CMS.",
+      img: "/blog.png",
+      iconLists: ["/next.svg", "/tail.svg", "sanity.png"],
+      link: "https://github.com/LazarosZiskos/blog",
+    },
+    {
+      id: 3,
       title: "Voom - Video Conferencing App",
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
       img: "/p2.svg",
@@ -87,7 +95,7 @@ export const navItems = [
       link: "https://github.com/LazarosZiskos/Voom",
     },
     {
-      id: 3,
+      id: 4,
       title: "Movvvies - Movie App API project",
       des: "Utilized the TMDb API to create a movie app that allows users to search for movies.",
       img: "/movvvies-screenshot.png",
@@ -95,7 +103,7 @@ export const navItems = [
       link: "https://github.com/LazarosZiskos/movvvies",
     },
     {
-      id: 4,
+      id: 5,
       title: "Veterinary Practice Website - Client Project",
       des: "Created a user-friendly veterinary website, improving visibility, client engagement, appointment booking, and informative content for pet owners.",
       img: "/vet-practice.png",
@@ -103,7 +111,7 @@ export const navItems = [
       link: "https://vet-practice.vercel.app/",
     },
     {
-      id: 5,
+      id: 6,
       title: "Hotel Website - Client Project",
       des: "Developed a modern hotel website with a visually appealing layout, intuitive navigation, and engaging guest experience.",
       img: "/hotel-website.png",
