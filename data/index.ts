@@ -72,11 +72,17 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Horizon Bank - Fintech Bank Application",
-    des: "A financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.",
-    img: "/Horizon-Bank-Wallpaper.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/c.svg"],
-    link: "https://github.com/LazarosZiskos/banking-app",
+    title: "BillWise - Invoice Creation Application",
+    des: "A modern invoicing SaaS platform that lets users create, send and manage invoices with ease. It streamlines payment tracking, supports client management, and provides real-time insights into revenue and billing activity",
+    img: "/BillWise-hero.png",
+    iconLists: [
+      "/next.svg",
+      "/tail.svg",
+      "/ts.svg",
+      "/prisma.svg",
+      "/posgres.png",
+    ],
+    link: "https://github.com/LazarosZiskos/invoice-app",
   },
   {
     id: 2,
